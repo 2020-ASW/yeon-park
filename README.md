@@ -11,7 +11,7 @@
 - [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/): [풀이](https://sysgongbu.tistory.com/81)
 - [Letter Combinations of a Phone number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/): [풀이](https://sysgongbu.tistory.com/82)
 - [Median of two sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/): [풀이](https://sysgongbu.tistory.com/83)
-- [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/):
+- [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/): [풀이](https://sysgongbu.tistory.com/85)
 - [상원이의 생일파티](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWWO3kT6F2oDFAV4&categoryId=AWWO3kT6F2oDFAV4&categoryType=CODE): [풀이](https://sysgongbu.tistory.com/84)
 
 ## 12월 3주차
