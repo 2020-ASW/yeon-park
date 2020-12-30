@@ -1,11 +1,13 @@
 # Algorithm study
 매주 일요일 저녁 7시 마감
 
+## 1월 1주차
+- [치킨배달](https://www.acmicpc.net/problem/15686): [풀이](https://sysgongbu.tistory.com/87)
 
 ## 12월 4주차
 - [거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907): [풀이](https://sysgongbu.tistory.com/77)
 - [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236): [풀이](https://sysgongbu.tistory.com/80)
-- [자동완성](https://programmers.co.kr/learn/courses/30/lessons/17685): 
+- [자동완성](https://programmers.co.kr/learn/courses/30/lessons/17685): [풀이](https://sysgongbu.tistory.com/86)
 - [가장 큰 정사각형](https://www.acmicpc.net/problem/1915): [풀이](https://sysgongbu.tistory.com/79)
 - [헨리](https://www.acmicpc.net/problem/10253): [풀이](https://sysgongbu.tistory.com/78)
 - [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/): [풀이](https://sysgongbu.tistory.com/81)
