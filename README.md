@@ -3,6 +3,14 @@
 
 ## 1월 1주차
 - [치킨배달](https://www.acmicpc.net/problem/15686): [풀이](https://sysgongbu.tistory.com/87)
+- [가운데를 말해요](https://www.acmicpc.net/problem/1655): [풀이](https://sysgongbu.tistory.com/88)
+- [줄기세포 배양](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo&): [풀이](https://sysgongbu.tistory.com/89)
+- [작업순서](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18TrIqIwUCFAZN&categoryId=AV18TrIqIwUCFAZN&categoryType=CODE): [풀이](https://sysgongbu.tistory.com/90)
+- [징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062): [풀이](https://sysgongbu.tistory.com/91)
+- [N-Queens](https://leetcode.com/problems/n-queens/)
+- [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
+- [Minimum Cost to Connect Two Groups of Point](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/)
+- [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
 
 ## 12월 4주차
 - [거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907): [풀이](https://sysgongbu.tistory.com/77)
