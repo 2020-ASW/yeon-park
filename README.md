@@ -4,7 +4,8 @@
 ## 1월 2주차
 - [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898): [풀이](https://sysgongbu.tistory.com/92)
 - [최고의 집합](https://programmers.co.kr/learn/courses/30/lessons/12938): [풀이](https://sysgongbu.tistory.com/93)
-- [경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259): [풀이]()
+- [경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259): [풀이](https://sysgongbu.tistory.com/94)
+- [등산로 조성](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq): [풀이](https://sysgongbu.tistory.com/97)
 
 ## 1월 1주차
 - [치킨배달](https://www.acmicpc.net/problem/15686): [풀이](https://sysgongbu.tistory.com/87)
@@ -15,7 +16,7 @@
 - :star: [N-Queens](https://leetcode.com/problems/n-queens/)
 - :star: [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
 - :star: [Minimum Cost to Connect Two Groups of Point](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/)
-- [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
+- :star: [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
 
 ## 12월 4주차
 - [거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907): [풀이](https://sysgongbu.tistory.com/77)
