@@ -4,8 +4,10 @@
 ## 1월 2주차
 - [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898): [풀이](https://sysgongbu.tistory.com/92)
 - [최고의 집합](https://programmers.co.kr/learn/courses/30/lessons/12938): [풀이](https://sysgongbu.tistory.com/93)
-- [경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259): [풀이](https://sysgongbu.tistory.com/94)
+- [경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259): [풀이 중...](https://sysgongbu.tistory.com/94)
 - [등산로 조성](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq): [풀이](https://sysgongbu.tistory.com/97)
+- [Number of Islands](https://leetcode.com/problems/number-of-islands/): [풀이](https://sysgongbu.tistory.com/98)
+- [네 개의 소수](https://www.acmicpc.net/problem/1153): [풀이]()
 
 ## 1월 1주차
 - [치킨배달](https://www.acmicpc.net/problem/15686): [풀이](https://sysgongbu.tistory.com/87)
