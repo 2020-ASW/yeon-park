@@ -8,7 +8,8 @@
 - [등산로 조성](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq): [풀이](https://sysgongbu.tistory.com/97)
 - [Number of Islands](https://leetcode.com/problems/number-of-islands/): [풀이](https://sysgongbu.tistory.com/98)
 - [01 Matrix](https://leetcode.com/problems/01-matrix/): [풀이](https://sysgongbu.tistory.com/99)
-- :star: [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
+- [우주 탐사선](https://www.acmicpc.net/problem/17182): [풀이](https://sysgongbu.tistory.com/100)
+- :star: [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/): [풀이](https://sysgongbu.tistory.com/101)
 
 ## 1월 1주차
 - [치킨배달](https://www.acmicpc.net/problem/15686): [풀이](https://sysgongbu.tistory.com/87)
