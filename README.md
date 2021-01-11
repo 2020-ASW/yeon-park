@@ -1,6 +1,8 @@
 # Algorithm study
 매주 일요일 저녁 7시 마감
 
+## 1월 3주차
+
 ## 1월 2주차
 - [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898): [풀이](https://sysgongbu.tistory.com/92)
 - [최고의 집합](https://programmers.co.kr/learn/courses/30/lessons/12938): [풀이](https://sysgongbu.tistory.com/93)
@@ -12,6 +14,7 @@
 - :star: [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/): [풀이](https://sysgongbu.tistory.com/101)
 - [네 개의 소수](https://www.acmicpc.net/problem/1153): [풀이](https://sysgongbu.tistory.com/102)
 - [선표의 축구경기 예측](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWFUsJvqAegDFAVB&categoryId=AWFUsJvqAegDFAVB&categoryType=CODE): [풀이](https://sysgongbu.tistory.com/103)
+- [카드 섞기](https://www.acmicpc.net/problem/1091): [풀이](https://sysgongbu.tistory.com/104)
 
 ## 1월 1주차
 - [치킨배달](https://www.acmicpc.net/problem/15686): [풀이](https://sysgongbu.tistory.com/87)
