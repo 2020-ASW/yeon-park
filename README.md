@@ -2,6 +2,7 @@
 매주 일요일 저녁 7시 마감
 
 ## 1월 3주차
+- [오름세](https://www.acmicpc.net/problem/3745): [풀이](https://sysgongbu.tistory.com/76)
 
 ## 1월 2주차
 - [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898): [풀이](https://sysgongbu.tistory.com/92)
