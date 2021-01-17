@@ -5,8 +5,15 @@
 - [오름세](https://www.acmicpc.net/problem/3745): [풀이](https://sysgongbu.tistory.com/76)
 - [배열에서 이동](https://www.acmicpc.net/problem/1981): [풀이](https://sysgongbu.tistory.com/105)
 - [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236): [풀이](https://sysgongbu.tistory.com/91)
+- [자동완성](https://programmers.co.kr/learn/courses/30/lessons/17685): [풀이](https://github.com/2020-ASW/yeon-park/blob/main/review/%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1.java)
 - [공통조상](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15PTkqAPYCFAYD): [풀이](https://sysgongbu.tistory.com/106)
-- [지형 이동](https://programmers.co.kr/learn/courses/30/lessons/62050): [풀이](https://sysgongbu.tistory.com/107)
+- :star: [지형 이동](https://programmers.co.kr/learn/courses/30/lessons/62050): [풀이](https://sysgongbu.tistory.com/107)
+- :star: [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
+- [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/): [풀이](https://github.com/2020-ASW/yeon-park/blob/main/review/RecoverBinarySearchTree.java) 
+- [동굴 탐험](https://programmers.co.kr/learn/courses/30/lessons/67260): [풀이](https://sysgongbu.tistory.com/108)
+- [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600): [풀이](https://sysgongbu.tistory.com/109)
+- [파티](https://www.acmicpc.net/problem/1238)
+- [우수마을](https://www.acmicpc.net/problem/1949)
 
 ## 1월 2주차
 - [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898): [풀이](https://sysgongbu.tistory.com/92)
@@ -34,7 +41,7 @@
 
 ## 12월 4주차
 - [거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907): [풀이](https://sysgongbu.tistory.com/77)
-- :star: [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236): [풀이](https://sysgongbu.tistory.com/80)
+- [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236): [풀이](https://sysgongbu.tistory.com/80)
 - :star: [자동완성](https://programmers.co.kr/learn/courses/30/lessons/17685): [풀이](https://sysgongbu.tistory.com/86)
 - :star: [가장 큰 정사각형](https://www.acmicpc.net/problem/1915): [풀이](https://sysgongbu.tistory.com/79)
 - [헨리](https://www.acmicpc.net/problem/10253): [풀이](https://sysgongbu.tistory.com/78)
@@ -52,4 +59,4 @@
 - [Contain With Most Water](https://leetcode.com/problems/container-with-most-water/): [풀이](https://sysgongbu.tistory.com/67)
 - [호텔 방배정](https://programmers.co.kr/learn/courses/30/lessons/64063): [풀이](https://sysgongbu.tistory.com/69)
 - :star: [트리 트리오 중간값](https://programmers.co.kr/learn/courses/30/lessons/68937): [풀이](https://sysgongbu.tistory.com/75)
-- :star: [오름세](https://www.acmicpc.net/problem/3745): [풀이](https://sysgongbu.tistory.com/76)
+- [오름세](https://www.acmicpc.net/problem/3745): [풀이](https://sysgongbu.tistory.com/76)
