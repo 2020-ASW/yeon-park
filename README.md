@@ -5,6 +5,8 @@
 - [오름세](https://www.acmicpc.net/problem/3745): [풀이](https://sysgongbu.tistory.com/76)
 - [배열에서 이동](https://www.acmicpc.net/problem/1981): [풀이](https://sysgongbu.tistory.com/105)
 - [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236): [풀이](https://sysgongbu.tistory.com/91)
+- [공통조상](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15PTkqAPYCFAYD): [풀이](https://sysgongbu.tistory.com/106)
+- [지형 이동](https://programmers.co.kr/learn/courses/30/lessons/62050): [풀이](https://sysgongbu.tistory.com/107)
 
 ## 1월 2주차
 - [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898): [풀이](https://sysgongbu.tistory.com/92)
