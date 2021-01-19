@@ -1,6 +1,8 @@
 # Algorithm study
 매주 일요일 저녁 7시 마감
 
+## 1월 4
+
 ## 1월 3주차
 - [오름세](https://www.acmicpc.net/problem/3745): [풀이](https://sysgongbu.tistory.com/76)
 - [배열에서 이동](https://www.acmicpc.net/problem/1981): [풀이](https://sysgongbu.tistory.com/105)
@@ -13,7 +15,7 @@
 - [동굴 탐험](https://programmers.co.kr/learn/courses/30/lessons/67260): [풀이](https://sysgongbu.tistory.com/108)
 - [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600): [풀이](https://sysgongbu.tistory.com/109)
 - [파티](https://www.acmicpc.net/problem/1238)
-- [우수마을](https://www.acmicpc.net/problem/1949)
+- :star: [우수마을](https://www.acmicpc.net/problem/1949): [풀이](https://sysgongbu.tistory.com/114)
 
 ## 1월 2주차
 - [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898): [풀이](https://sysgongbu.tistory.com/92)
