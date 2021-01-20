@@ -1,7 +1,8 @@
 # Algorithm study
 매주 일요일 저녁 7시 마감
 
-## 1월 4
+## 1월 4주차
+- [ACM Craft](https://www.acmicpc.net/problem/1005): [풀이](https://sysgongbu.tistory.com/116)
 
 ## 1월 3주차
 - [오름세](https://www.acmicpc.net/problem/3745): [풀이](https://sysgongbu.tistory.com/76)
