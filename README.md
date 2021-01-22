@@ -5,6 +5,8 @@
 - [ACM Craft](https://www.acmicpc.net/problem/1005): [풀이](https://sysgongbu.tistory.com/116)
 - [낚시왕](https://www.acmicpc.net/problem/17143): [풀이](https://sysgongbu.tistory.com/117)
 - [중량제한](https://www.acmicpc.net/problem/1939): [풀이](https://sysgongbu.tistory.com/118)
+- [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861): [풀이](https://sysgongbu.tistory.com/119)
+- [보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258): [풀이](https://sysgongbu.tistory.com/120)
 
 ## 1월 3주차
 - [오름세](https://www.acmicpc.net/problem/3745): [풀이](https://sysgongbu.tistory.com/76)
