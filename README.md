@@ -7,6 +7,7 @@
 - [중량제한](https://www.acmicpc.net/problem/1939): [풀이](https://sysgongbu.tistory.com/118)
 - [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861): [풀이](https://sysgongbu.tistory.com/119)
 - [보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258): [풀이](https://sysgongbu.tistory.com/120)
+- [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/): [풀이](https://sysgongbu.tistory.com/121)
 
 ## 1월 3주차
 - [오름세](https://www.acmicpc.net/problem/3745): [풀이](https://sysgongbu.tistory.com/76)
