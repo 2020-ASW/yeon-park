@@ -8,6 +8,9 @@
 - [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861): [풀이](https://sysgongbu.tistory.com/119)
 - [보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258): [풀이](https://sysgongbu.tistory.com/120)
 - [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/): [풀이](https://sysgongbu.tistory.com/121)
+- [무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891): [풀이](https://sysgongbu.tistory.com/124)
+- [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/): [풀이](https://sysgongbu.tistory.com/125)
+- [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/): [풀이](https://sysgongbu.tistory.com/126)
 
 ## 1월 3주차
 - [오름세](https://www.acmicpc.net/problem/3745): [풀이](https://sysgongbu.tistory.com/76)
