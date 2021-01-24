@@ -11,6 +11,7 @@
 - [무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891): [풀이](https://sysgongbu.tistory.com/124)
 - [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/): [풀이](https://sysgongbu.tistory.com/125)
 - [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/): [풀이](https://sysgongbu.tistory.com/126)
+- :star: [4단 고음](https://programmers.co.kr/learn/courses/30/lessons/1831): [풀이](https://sysgongbu.tistory.com/127)
 
 ## 1월 3주차
 - [오름세](https://www.acmicpc.net/problem/3745): [풀이](https://sysgongbu.tistory.com/76)
