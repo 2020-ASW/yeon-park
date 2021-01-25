@@ -1,6 +1,9 @@
 # Algorithm study
 매주 일요일 저녁 7시 마감
 
+## 1월 5주차
+- [트리의 지름](https://www.acmicpc.net/problem/1167): [풀이](https://sysgongbu.tistory.com/128?category=1172320)
+
 ## 1월 4주차
 - [ACM Craft](https://www.acmicpc.net/problem/1005): [풀이](https://sysgongbu.tistory.com/116)
 - [낚시왕](https://www.acmicpc.net/problem/17143): [풀이](https://sysgongbu.tistory.com/117)
