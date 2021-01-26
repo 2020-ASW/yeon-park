@@ -3,6 +3,7 @@
 
 ## 1월 5주차
 - [트리의 지름](https://www.acmicpc.net/problem/1167): [풀이](https://sysgongbu.tistory.com/128?category=1172320)
+- [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061): [풀이](https://sysgongbu.tistory.com/131)
 
 ## 1월 4주차
 - [ACM Craft](https://www.acmicpc.net/problem/1005): [풀이](https://sysgongbu.tistory.com/116)
