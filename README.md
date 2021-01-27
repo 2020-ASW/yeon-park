@@ -4,6 +4,9 @@
 ## 1월 5주차
 - [트리의 지름](https://www.acmicpc.net/problem/1167): [풀이](https://sysgongbu.tistory.com/128?category=1172320)
 - [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061): [풀이](https://sysgongbu.tistory.com/131)
+- [외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062): [풀이](https://sysgongbu.tistory.com/132)
+- [Target Sum](https://leetcode.com/problems/target-sum/): [풀이](https://sysgongbu.tistory.com/133)
+- [괄호 추가하기](https://www.acmicpc.net/problem/16637): [풀이](https://sysgongbu.tistory.com/134)
 
 ## 1월 4주차
 - [ACM Craft](https://www.acmicpc.net/problem/1005): [풀이](https://sysgongbu.tistory.com/116)
