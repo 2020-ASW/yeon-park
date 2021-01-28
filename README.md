@@ -7,6 +7,8 @@
 - [외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062): [풀이](https://sysgongbu.tistory.com/132)
 - [Target Sum](https://leetcode.com/problems/target-sum/): [풀이](https://sysgongbu.tistory.com/133)
 - [괄호 추가하기](https://www.acmicpc.net/problem/16637): [풀이](https://sysgongbu.tistory.com/134)
+- [사칙연산](https://programmers.co.kr/learn/courses/30/lessons/1843): [풀이](https://sysgongbu.tistory.com/135)
+- [짝수 행 세기](https://programmers.co.kr/learn/courses/30/lessons/68647): [풀이](https://sysgongbu.tistory.com/136)
 
 ## 1월 4주차
 - [ACM Craft](https://www.acmicpc.net/problem/1005): [풀이](https://sysgongbu.tistory.com/116)
@@ -20,7 +22,7 @@
 - [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/): [풀이](https://sysgongbu.tistory.com/126)
 - :star: [4단 고음](https://programmers.co.kr/learn/courses/30/lessons/1831): [풀이](https://sysgongbu.tistory.com/127)
 
-## 1월 3주차
+## 1월 3주차 `복습`
 - [오름세](https://www.acmicpc.net/problem/3745): [풀이](https://sysgongbu.tistory.com/76)
 - [배열에서 이동](https://www.acmicpc.net/problem/1981): [풀이](https://sysgongbu.tistory.com/105)
 - [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236): [풀이](https://sysgongbu.tistory.com/91)
