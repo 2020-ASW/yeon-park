@@ -9,6 +9,7 @@
 - [괄호 추가하기](https://www.acmicpc.net/problem/16637): [풀이](https://sysgongbu.tistory.com/134)
 - [사칙연산](https://programmers.co.kr/learn/courses/30/lessons/1843): [풀이](https://sysgongbu.tistory.com/135)
 - [짝수 행 세기](https://programmers.co.kr/learn/courses/30/lessons/68647): [풀이](https://sysgongbu.tistory.com/136)
+- [X와 K](https://www.acmicpc.net/problem/1322): [풀이](https://sysgongbu.tistory.com/139)
 
 ## 1월 4주차
 - [ACM Craft](https://www.acmicpc.net/problem/1005): [풀이](https://sysgongbu.tistory.com/116)
