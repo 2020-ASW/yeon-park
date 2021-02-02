@@ -1,6 +1,9 @@
 # Algorithm study
 매주 일요일 저녁 7시 마감
 
+## 2월 1주차
+- [고층 건물](https://www.acmicpc.net/problem/1027): [풀이](https://sysgongbu.tistory.com/144)
+
 ## 1월 5주차
 - [트리의 지름](https://www.acmicpc.net/problem/1167): [풀이](https://sysgongbu.tistory.com/128?category=1172320)
 - [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061): [풀이](https://sysgongbu.tistory.com/131)
