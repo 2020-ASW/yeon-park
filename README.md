@@ -3,6 +3,9 @@
 
 ## 2월 1주차
 - [고층 건물](https://www.acmicpc.net/problem/1027): [풀이](https://sysgongbu.tistory.com/144)
+- [K진 트리](https://www.acmicpc.net/problem/11812): [풀이](https://sysgongbu.tistory.com/146)
+- [특정한 최단경로](https://www.acmicpc.net/problem/1504): [풀이](https://sysgongbu.tistory.com/147)
+- [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/): [풀이](https://sysgongbu.tistory.com/148)
 
 ## 1월 5주차
 - [트리의 지름](https://www.acmicpc.net/problem/1167): [풀이](https://sysgongbu.tistory.com/128?category=1172320)
