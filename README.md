@@ -6,6 +6,9 @@
 - [K진 트리](https://www.acmicpc.net/problem/11812): [풀이](https://sysgongbu.tistory.com/146)
 - [특정한 최단경로](https://www.acmicpc.net/problem/1504): [풀이](https://sysgongbu.tistory.com/147)
 - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/): [풀이](https://sysgongbu.tistory.com/148)
+- [최적의 행렬 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12942): [풀이](https://sysgongbu.tistory.com/149)
+- [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/): [풀이](https://sysgongbu.tistory.com/150)
+- [Task Scheduler](https://leetcode.com/problems/task-scheduler/): [풀이](https://sysgongbu.tistory.com/151)
 
 ## 1월 5주차
 - [트리의 지름](https://www.acmicpc.net/problem/1167): [풀이](https://sysgongbu.tistory.com/128?category=1172320)
