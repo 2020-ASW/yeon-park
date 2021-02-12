@@ -1,6 +1,9 @@
 # Algorithm study
 매주 일요일 저녁 7시 마감
 
+## 2월 2주차
+- [문제집](https://www.acmicpc.net/problem/1766): [풀이](https://sysgongbu.tistory.com/160)
+
 ## 2월 1주차
 - [고층 건물](https://www.acmicpc.net/problem/1027): [풀이](https://sysgongbu.tistory.com/144)
 - [K진 트리](https://www.acmicpc.net/problem/11812): [풀이](https://sysgongbu.tistory.com/146)
