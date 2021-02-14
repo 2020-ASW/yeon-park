@@ -3,6 +3,10 @@
 
 ## 2월 2주차
 - [문제집](https://www.acmicpc.net/problem/1766): [풀이](https://sysgongbu.tistory.com/160)
+- [Decode String](https://leetcode.com/problems/decode-string/): [풀이](https://sysgongbu.tistory.com/163)
+- [치즈](https://www.acmicpc.net/problem/2638): [풀이](https://sysgongbu.tistory.com/164)
+- [단어 수학](https://www.acmicpc.net/problem/1339): [풀이](https://sysgongbu.tistory.com/165)
+- [Group Anagrams](https://leetcode.com/problems/group-anagrams/): [풀이](https://sysgongbu.tistory.com/166)
 
 ## 2월 1주차
 - [고층 건물](https://www.acmicpc.net/problem/1027): [풀이](https://sysgongbu.tistory.com/144)
